@@ -1,20 +1,19 @@
 ### Hi😄, here is diadestiny's github.
-I Love ❤ the DeepLearning🧠 and Computer Vision👀.
-Welcome to my repositories. Hope you can enjoy everything here.
+Welcome to my repositories. 
 
-- 🔭 I’m currently working on **ComputerVision**
-- 🌱 I’m currently learning **DeepLearning with CNN**
-- 👯 I’m looking to collaborate on **Competition with Rank**
-- ⚡ Fun fact: **Busy and Busy**
+Junior in College 大三在读
 
+
+| [-->My BLOG](https://blog.csdn.net/weixin_43723614)
+- 📫 How to reach me: 
 <b>
-    <image src="https://github-readme-stats.vercel.app/api?username=diadestiny&show_icons=true&theme=cobalt" height=200></image>
-     <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=diadestiny&layout=compact&theme=tokyonight" height=200></image>
+    <image src="https://github-readme-stats.vercel.app/api?username=diadestiny&show_icons=true&theme=cobalt" height=150></image>
+     <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=diadestiny&layout=compact&theme=tokyonight" height=150></image>
 </b>
 
 
 <b>
-    <image src="https://github-readme-stats.vercel.app/api/pin/?username=diadestiny&repo=Intelligent-application-of-traffic-monitoring-scene&theme=tokyonight" height=200></image>
+    <image src="https://github-readme-stats.vercel.app/api/pin/?username=diadestiny&repo=Intelligent-application-of-traffic-monitoring-scene&theme=tokyonight" ></image>
 </b>
 
 <br/>
