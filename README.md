@@ -10,18 +10,20 @@ Welcome to my repositories. Hope you can enjoy everything here.
 <b>
     <image src="https://github-readme-stats.vercel.app/api?username=diadestiny&show_icons=true&theme=cobalt" width=400></image>
 </b>
+<br/>
+
 <b>
-    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=diadestiny&layout=compact&theme=tokyonight&hide=html" width=400></image>
+    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=diadestiny&layout=compact&theme=tokyonight"></image>
 </b>
 
 <b>
     <image src="https://github-readme-stats.vercel.app/api/pin/?username=diadestiny&repo=Intelligent-application-of-traffic-monitoring-scene&theme=tokyonight"></image>
 </b>
 
-<br></br>
+<br/>
 
-<image src="https://github-profile-trophy.vercel.app/?username=diadestiny&theme=dracula"/>
-<br></br>
+<!-- <image src="https://github-profile-trophy.vercel.app/?username=diadestiny&theme=dracula"/> -->
+
 
 Currently Using Programming Language
 <!-- <p align="center"><image src="imgs/python.png"/></p> -->
