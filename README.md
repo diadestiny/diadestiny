@@ -2,9 +2,12 @@
 Welcome to my repositories. 
 
 Junior in College 大三在读
+Now Interested Field: Algorithm🧠| Computer Vision👀 based on DeepLearning 
+Last Working Field: Android | Computer System structure 
 
+Language：CPP | Python | Java
 
-| [-->My BLOG](https://blog.csdn.net/weixin_43723614)
+| [-->我的博客](https://blog.csdn.net/weixin_43723614)
 - 📫 How to reach me: 
 <b>
     <image src="https://github-readme-stats.vercel.app/api?username=diadestiny&show_icons=true&theme=cobalt" height=150></image>
