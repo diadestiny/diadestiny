@@ -2,8 +2,29 @@
 I Love ❤ the DeepLearning🧠 and Computer Vision👀.
 Welcome to my repositories. Hope you can enjoy everything here.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diadestiny&show_icons=true&theme=cobalt)](https://github.com/diadestiny/github-readme-stats)
+- 🔭 I’m currently working on **ComputerVision**
+- 🌱 I’m currently learning **DeepLearning with CNN**
+- 👯 I’m looking to collaborate on **Competition with Rank**
+- ⚡ Fun fact: **Busy and Busy**
 
+<b>
+    <image src="https://github-readme-stats.vercel.app/api?username=diadestiny&show_icons=true&theme=cobalt" width=400></image>
+</b>
+<b>
+    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=diadestiny&layout=compact&theme=tokyonight&hide=html" width=400></image>
+</b>
+
+<b>
+    <image src="https://github-readme-stats.vercel.app/api/pin/?username=diadestiny&repo=Intelligent-application-of-traffic-monitoring-scene&theme=tokyonight"></image>
+</b>
+
+<br></br>
+
+<image src="https://github-profile-trophy.vercel.app/?username=diadestiny&theme=dracula"/>
+<br></br>
+
+Currently Using Programming Language
+<!-- <p align="center"><image src="imgs/python.png"/></p> -->
 
 
 <!--
