@@ -1,10 +1,9 @@
 ### Hi😄, here is diadestiny's github.
 Welcome to my repositories. 
 
-Junior in College 大三在读
-Now Interested Field: Algorithm🧠| Computer Vision👀 based on DeepLearning 
-Last Working Field: Android | Computer System structure 
-
+Junior in College 大三在读 <br/>
+**Now Interested Field** : Algorithm🧠| Computer Vision👀 based on DeepLearning <br/>
+Last Working Field: Android | Computer System structure  <br/>
 Language：CPP | Python | Java
 
 | [-->我的博客](https://blog.csdn.net/weixin_43723614)
