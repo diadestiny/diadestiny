@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi😄, here is diadestiny's github.
+I Love ❤ the DeepLearning🧠 and Computer Vision👀.
+Welcome to my repositories. Hope you can enjoy everything here.
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diadestiny)](https://github.com/diadestiny/github-readme-stats&show_icons=true)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diadestiny&show_icons=true&theme=cobalt)](https://github.com/diadestiny/github-readme-stats)
 
 
 
