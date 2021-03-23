@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diadestiny)](https://github.com/diadestiny/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diadestiny)](https://github.com/diadestiny/github-readme-stats&show_icons=true)
 
 
 
