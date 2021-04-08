@@ -7,7 +7,7 @@ Last Working Field: Android | Computer System structure  <br/>
 Language：CPP | Python | Java
 
 | [-->我的博客](https://blog.csdn.net/weixin_43723614)
-- 📫 How to reach me: kaihaolin@163.com
+- 📫 How to reach me: kaihaolin@163.com 微信:L13025638806
 <b>
     <image src="https://github-readme-stats.vercel.app/api?username=diadestiny&show_icons=true&theme=cobalt" height=150></image>
      <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=diadestiny&layout=compact&theme=tokyonight" height=150></image>
