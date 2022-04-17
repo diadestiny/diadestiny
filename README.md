@@ -10,7 +10,7 @@ Language：CPP | Python | Java
 
 [my zhihu](https://www.zhihu.com/people/diamond-46-8)
 
-email:kaihaolin@163.com wechat: L13025638806<br/>
+email:kaihaolin@163.com<br/>
 
 <b>
     <image src="https://github-readme-stats.vercel.app/api?username=diadestiny&show_icons=true&theme=cobalt" height=150></image>
