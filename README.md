@@ -1,22 +1,23 @@
-<!-- ### Hi😄, here is diadestiny's github. -->
+### Hi😄, here is diadestiny's github.
 Welcome to my repositories. 
 
-Senior in College 大四在读 <br/>
+Senior in College <br/>
 **Now Interested Field** : Image Restoration and Perception Algorithm <br/>
-Last Working Field: Android | Computer Vision Project | Computer System Structure<br/>
+Last Working Field: Android | Computer Vision Project <br/>
 Language：CPP | Python | Java
 
-| [-->博客](https://blog.csdn.net/weixin_43723614)
-| [-->知乎](https://www.zhihu.com/people/diamond-46-8)
-- 📫 How to reach me: kaihaolin@163.com wechat:L13025638806
+| [blog](https://blog.csdn.net/weixin_43723614)
+| [zhihu](https://www.zhihu.com/people/diamond-46-8)
+
+📫 email:kaihaolin@163.com wechat: L13025638806<br/>
 <b>
     <image src="https://github-readme-stats.vercel.app/api?username=diadestiny&show_icons=true&theme=cobalt" height=150></image>
-     <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=diadestiny&layout=compact&theme=tokyonight" height=150></image>
+<!--      <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=diadestiny&layout=compact&theme=tokyonight" height=150></image> -->
 </b>
 
-<b>
+<!-- <b>
     <image src="https://github-readme-stats.vercel.app/api/pin/?username=diadestiny&repo=Intelligent-application-of-traffic-monitoring-scene&theme=tokyonight" ></image>
-</b>
+</b> -->
 
 <br/>
 
