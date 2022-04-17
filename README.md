@@ -1,4 +1,4 @@
-### Hi😄, here is diadestiny's github.
+<!-- ### Hi😄, here is diadestiny's github. -->
 Welcome to my repositories. 
 
 Senior in College <br/>
@@ -6,10 +6,12 @@ Senior in College <br/>
 Last Working Field: Android | Computer Vision Project <br/>
 Language：CPP | Python | Java
 
-| [blog](https://blog.csdn.net/weixin_43723614)
-| [zhihu](https://www.zhihu.com/people/diamond-46-8)
+[my blog](https://blog.csdn.net/weixin_43723614)
 
-📫 email:kaihaolin@163.com wechat: L13025638806<br/>
+[my zhihu](https://www.zhihu.com/people/diamond-46-8)
+
+email:kaihaolin@163.com wechat: L13025638806<br/>
+
 <b>
     <image src="https://github-readme-stats.vercel.app/api?username=diadestiny&show_icons=true&theme=cobalt" height=150></image>
 <!--      <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=diadestiny&layout=compact&theme=tokyonight" height=150></image> -->
