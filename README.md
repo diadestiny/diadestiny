@@ -6,9 +6,9 @@ Senior in College <br/>
 Last Working Field: Android | Computer Vision Project <br/>
 Language：CPP | Python | Java
 
-[my blog](https://blog.csdn.net/weixin_43723614)
+[My Blog](https://blog.csdn.net/weixin_43723614)
 
-[my zhihu](https://www.zhihu.com/people/diamond-46-8)
+[My Zhihu](https://www.zhihu.com/people/diamond-46-8)
 
 email:kaihaolin@163.com<br/>
 
