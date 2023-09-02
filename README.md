@@ -2,7 +2,8 @@
 Welcome to my repositories. 
 
 Senior in College <br/>
-**Now Interested Field** : Image Restoration and Perception Algorithm <br/>
+**Now Interested Field**: AI compiler | High Performance Computing
+**master's research field**: Low-level Image Restoration and Perception Algorithm, focus on Image Dehazing<br/>
 Last Working Field: Android | Computer Vision Project <br/>
 Language：CPP | Python | Java
 
