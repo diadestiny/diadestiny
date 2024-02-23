@@ -1,6 +1,8 @@
 <!-- ### Hi😄, here is diadestiny's github. -->
 Welcome to my repositories. 
 
+**Looking for a job** : `C++` | `HPC` | `infra` and so on. <br/>
+<br/>
 Senior in College <br/>
 **Now Interested Field**: AI compiler | High Performance Computing<br/>
 **Master's research field**: Low-level Image Restoration, focus on Image Dehazing<br/>
