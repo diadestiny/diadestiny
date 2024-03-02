@@ -4,7 +4,7 @@ Welcome to my repositories.
 **Looking for a job** : `C++` | `HPC` | `infra` and so on. <br/>
 <br/>
 Senior in College <br/>
-**Now Interested Field**: AI compiler | High Performance Computing<br/>
+**Now Interested Field**: High Performance Computing | Distributed System<br/>
 **Master's research field**: Low-level Image Restoration, focus on Image Dehazing<br/>
 Last Working Field: Android | Computer Vision Project <br/>
 Language：CPP | Python | Java
