@@ -1,7 +1,7 @@
 <!-- ### Hi😄, here is diadestiny's github. -->
 Welcome to my repositories. 
 
-**Looking for a job** : `C++` | `HPC` | `infra` and so on. <br/>
+**Looking for a job** : `Backend` | `C++` | `HPC` | `infra` and so on. <br/>
 <br/>
 Senior in College <br/>
 **Now Interested Field**: High Performance Computing | Distributed System<br/>
