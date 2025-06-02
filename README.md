@@ -1,13 +1,12 @@
 <!-- ### Hi😄, here is diadestiny's github. -->
 Welcome to my repositories. 
 
-**Looking for a job** : `Backend` | `C++` | `HPC` | `infra` and so on. <br/>
-<br/>
-Senior in College <br/>
-**Now Interested Field**: High Performance Computing | Distributed System<br/>
-**Master's research field**: Low-level Image Restoration, focus on Image Dehazing<br/>
-Last Working Field: Android | Computer Vision Project <br/>
-Language：CPP | Python | Java
+**Current job** : `Golang/Cpp Backend` <br/>
+**Now Interested Field**: AI Application| AI infra | Distributed System<br/>
+**College**: UESTC <br/>
+**Master's research field**: AI Low-level Image Restoration, focus on Image Dehazing <br/>
+Last Working Field: Android Project <br/>
+Language：CPP | Golang ｜Python | Java
 
 [My Blog](https://blog.csdn.net/weixin_43723614)
 
