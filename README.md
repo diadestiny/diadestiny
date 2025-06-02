@@ -1,7 +1,7 @@
 <!-- ### Hi😄, here is diadestiny's github. -->
 Welcome to my repositories. 
 
-**Current job** : `Golang/Cpp Backend` <br/>
+**Current Job Field** : `Golang/Cpp Backend` <br/>
 **Now Interested Field**: AI Application| AI infra | Distributed System<br/>
 **College**: UESTC <br/>
 **Master's research field**: AI Low-level Image Restoration, focus on Image Dehazing <br/>
