@@ -2,7 +2,6 @@
 Welcome to my repositories. 
 
 **Current Job Field** : `Golang/Cpp Backend` <br/>
-**Now Interested Field**: AI Application| System Design <br/>
 **College**: UESTC <br/>
 **Master's research field**: AI Low-level Image Restoration, focus on Image Dehazing <br/>
 Last Working Field: Android Project <br/>
